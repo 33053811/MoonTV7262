@@ -120,37 +120,37 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://api.apibdzy.com"
     },
-   "TVSHENMAYUN": {
+    "TVSHENMAYUN": {
       "name": "TV-神马云",
       "api": "https://api.1080zyku.com/inc/apijson.php/",
       "detail": "https://api.1080zyku.com"
     },
-  "TVHUYA": {
+    "TVHUYA": {
       "name": "TV-虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
     },
-   "AV91MADOU": {
+    "AV91MADOU": {
       "name": "AV-91麻豆",
       "api": "https://91md.me/api.php/provide/vod",
       "detail": "https://91md.me"
     },
-   "AVAIVIN": {
+    "AVAIVIN": {
       "name": "AV-AIvin",
       "api": "http://lbapiby.com/api.php/provide/vod",
       "detail": ""
     },
-  "AVJKUN": {
+    "AVJKUN": {
       "name": "AV-JKUN资源",
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "detail": "https://jkunzyapi.com"
     },
-  "AVSOUAV": {
+    "AVSOUAV": {
       "name": "AV-souav资源",
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "detail": "https://api.souavzy.vip"
     },
-   "AVLEBO": {
+    "AVLEBO": {
       "name": "AV-乐播资源",
       "api": "https://lbapi9.com/api.php/provide/vod",
       "detail": ""
@@ -160,32 +160,32 @@
       "api": "https://aosikazy.com/api.php/provide/vod",
       "detail": "https://aosikazy.com"
     },
-  "AVNAINAIXIANG": {
+    "AVNAINAIXIANG": {
       "name": "AV-奶香香",
       "api": "https://Naixxzy.com/api.php/provide/vod",
       "detail": "https://Naixxzy.com"
     },
-   "AVSHENLIN": {
+    "AVSHENLIN": {
       "name": "AV-森林资源",
       "api": "https://slapibf.com/api.php/provide/vod",
       "detail": "https://slapibf.com"
     },
-  "AVYINSHUIJI": {
+    "AVYINSHUIJI": {
       "name": "AV-淫水机资源",
       "api": "https://www.xrbsp.com/api/json.php",
       "detail": "https://www.xrbsp.com"
     },
-   "AVYUTU": {
+    "AVYUTU": {
       "name": "AV-玉兔资源",
       "api": "https://apiyutu.com/api.php/provide/vod",
       "detail": "https://apiyutu.com"
     },
-   "AVFANHAO": {
+    "AVFANHAO": {
      "name": "AV-番号资源",
      "api": "http://fhapi9.com/api.php/provide/vod",
      "detail": ""
-   },
-   "AVBAIPIAO": {
+    },
+    "AVBAIPIAO": {
      "name": "AV-白嫖资源",
      "api": "https://www.kxgav.com/api/json.php",
      "detail": "https://www.kxgav.com"
@@ -200,7 +200,7 @@
       "api": "https://www.msnii.com/api/json.php",
       "detail": "https://www.msnii.com"
    },
-  "AVLAOSEBI": {
+   "AVLAOSEBI": {
       "name": "AV-老色逼资源",
       "api": "https://apilsbzy1.com/api.php/provide/vod",
       "detail": "https://apilsbzy1.com"
@@ -210,7 +210,7 @@
       "api": "https://api.sexnguon.com/api.php/provide/vod",
       "detail": "https://api.sexnguon.com"
    },
-  "AVSEMAO": {
+   "AVSEMAO": {
       "name": "AV-色猫资源",
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "detail": "https://api.maozyapi.com"
