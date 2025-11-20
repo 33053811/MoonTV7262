@@ -94,35 +94,33 @@
       "name": "AV-155资源",
       "api": "https://155api.com/api.php/provide/vod",
       "detail": "https://155api.com"
-    }
-   "TV360":{
+    },
+    "TV360":{
       "name": "TV-360资源",
       "api": "https://360zy.com/api.php/provide/vod",
       "detail": "https://360zy.com"
     },
-    
-   "TVSINA": {
+    "TVSINA": {
       "name": "TV-新浪点播",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "detail": "https://api.xinlangapi.com"
     },
-   
-   "TVBAOFENG": {
+    "TVBAOFENG": {
       "name": "TV-暴风资源",
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "detail": ""
     },
-   "AVBAIWAN": {
+    "AVBAIWAN": {
       "name": "AV-百万资源",
       "api": "https://api.bwzyz.com/api.php/provide/vod",
       "detail": "https://api.bwzyz.com"
     },
-   "TVBAIDUYUN": {
+    "TVBAIDUYUN": {
       "name": "TV-百度云资源",
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://api.apibdzy.com"
     },
-  "TVSHENMAYUN": {
+   "TVSHENMAYUN": {
       "name": "TV-神马云",
       "api": "https://api.1080zyku.com/inc/apijson.php/",
       "detail": "https://api.1080zyku.com"
