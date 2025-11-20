@@ -214,6 +214,55 @@
       "name": "AV-色猫资源",
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "detail": "https://api.maozyapi.com"
-   }
+   },
+   "4kZHIZHEN":{
+      "key": "csp_Netfixtv",
+      "name": "⚡4k┃至臻",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar": "https://mdkfiles.kefuzixun.net/Account/121111/media/image/v_image_11520ee3.jpg;md5;be9654326035e9a2c43563d3591c2daf",
+      "ext": {
+        "site_urls": [
+          "http://xiaomi666.fun",
+          "https://xiaomiai.site",
+          "https://mihdr.top",
+          "https://www.mihdr.top",
+          "http://www.miqk.cc",
+          "https://www.zhizhenpan.fun"
+        ],
+        "url_key": "Netfixtv2",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 450,
+          "threads": 10
+        } 
+      }   
+    },
+    "BITE":{
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_BttwooGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    "LIBO":{
+      "key": "立播",
+      "name": "🌟立播┃秒播",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+     }
   }
 }
